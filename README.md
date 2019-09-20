@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: The benefits is that you do not have to reload the page every time you click on something new. It is all stored on the app itself and makes it so no white flash appears. It makes it look alot smoother because of no white flash and less data gets proccessed so routing betewen views is faster.
 
 ## Project Set Up
 
